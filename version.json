@@ -1,0 +1,6 @@
+{
+  "version": "1.0.0",
+  "note": "- 초기 버전 출시\n- 구글 드라이브 연동\n- 견적서/소견서/보험서류 PDF 생성",
+  "apk_url": "https://github.com/YOUR_USERNAME/leakapp-releases/releases/latest/download/app-release.apk",
+  "required": false
+}
